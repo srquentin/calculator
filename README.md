@@ -1,4 +1,4 @@
-caculator
+calculator
 =========
 
 This is HW-3 of NTU_DSnP
